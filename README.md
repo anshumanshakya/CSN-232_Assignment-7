@@ -9,7 +9,7 @@ The Solution to all the problems are implemented in C programming language.<br/>
 To Compile the program the pthread flag should be used with gcc
 
 Command-<br/>
-gcc -pthread &lt;filename&gt;.c -o &lt;filename&gt;
+$ gcc -pthread &lt;filename&gt;.c -o &lt;filename&gt;
 
 To Run the File-<br/>
-./&lt;filename&gt;
+$ ./&lt;filename&gt;
